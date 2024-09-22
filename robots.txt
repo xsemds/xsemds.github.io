@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://xsemds.github.io/sitemap.html.gz
+Sitemap: https://xsemds.github.io/app/sitemap.html.gz
+Sitemap: https://xsemds.github.io/assets/sitemap.html.gz
+Sitemap: https://xsemds.github.io/css/sitemap.html.gz
+Sitemap: https://xsemds.github.io/data/sitemap.html.gz
+Sitemap: https://xsemds.github.io/includes/sitemap.html.gz
+Sitemap: https://xsemds.github.io/item/sitemap.html.gz
+Sitemap: https://xsemds.github.io/src/sitemap.html.gz
